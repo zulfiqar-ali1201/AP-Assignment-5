@@ -1,0 +1,17 @@
+{
+  "name": "nodejsassignment",
+  "version": "1.0.0",
+  "description": "fa17mscs0020 Zulfiqar Ali",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Assignment"
+  ],
+  "author": "Zulfiqar Ali",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
